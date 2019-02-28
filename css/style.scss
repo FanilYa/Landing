@@ -4,10 +4,10 @@ $black-color : #000;
 
 @media (min-width: 0px) and (max-width: 767.9px) {
 	html {
-		overflow-x: hidden; 
+		overflow-x: hidden;
 	}
 	body {
-		padding: 0;
+		padding: 0px;
 		margin: 0;
 		font-family: 'Montserrat', sans-serif;
 		color: $bg-c-two;
